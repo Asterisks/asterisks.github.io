@@ -1,0 +1,20 @@
+---
+title: Facts
+subtitle: Childhood Cancer Facts
+layout: default
+modal-id: 2
+description: "• Childhood cancer is the number one disease killer in children.<br />
+• There are 15 children diagnosed with cancer for every one child diagnosed with pediatric AIDS. Yet, the U.S. invests approximately $595,000 for research per victim of pediatric AIDS and only $20,000 for each * victim of childhood cancer.<br />
+• The National Cancer Institute’s (NCI) federal budget was $4.6 billion. Of that, breast cancer received 12%, prostate cancer received 7%, and all 12 major groups of pediatric cancers combined received less than 3%.<br />
+• The American Cancer spends less than 70 cents of each 100 dollars raised on childhood cancer.<br />
+• Cancer kills more children than any other disease, more than Asthma, Cystic Fibrosis, Diabetes and Pediatric AIDS combined.<br />
+• Sadly, over 2,300 children with cancer die each year.<br />
+• Every school day 46 children are diagnosed.<br />
+• 1 in 330 children will have the disease by age 20.<br />
+• Cancers in very young children are highly aggressive and behave unlike malignant diseases at other times in life.<br />
+• 80% of children have metastasized cancer at the time of their diagnosis. At diagnosis, only 20% of adults with cancer show evidence that the disease has spread or metastasized.<br />
+• Detecting childhood cancers at an early stage, when the disease would react more favorably to treatment, is extremely difficult.<br />
+• Cancer symptoms in children – fever, swollen glands, anemia, bruises and infection – are often suspected to be, and at the early stages are treated as, other childhood illnesses.<br />
+• Even with insurance coverage, a family will have out-of pocket expenses of about $40,000 per year, not including travel.<br />
+• Treatment can continue for several years, depending on the type of cancer and the type of therapy given."
+---

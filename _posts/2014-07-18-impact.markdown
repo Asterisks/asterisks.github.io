@@ -1,0 +1,17 @@
+---
+title: Impact
+subtitle: How Hats Change Lives
+layout: default
+modal-id: 1
+description: "Matt’s Hats exists to help kids in the hospital by promoting hope and success in their future. We do this through actions such as:<br /><br />
+
+<h4>Sponsoring School Hat Days</h4>
+A popular way people become involved is to ask their local school to partner with us. Hat Days are when students pay $1 to wear a hat to school. At the end of the day, students are given the opportunity to donate their hat.  Sign your school up here.<br /><br />
+
+<h4>Funding Cancer Research</h4>
+Matt’s Hats is proud to sponsor two former doctors of Matt’s ,Joshua RubinM.D and Jeff bednarski.M.D, who operate research laboratories at Washington University School of Medicine, St. Louis.<br />Only about 4% of the National Cancer Institute's annual budget is used to fight childhood cancer.
+Matt's Hats has donated over $14,000 to support pediatric cancer research.<br /><br />
+
+<h4>Conference Presentations</h4>
+Matt’s Hats is currently presenting and looking for more opportunities to share our story and networking with individuals who are interested in supporting. If interested in having us at your event please contact us here."
+---
